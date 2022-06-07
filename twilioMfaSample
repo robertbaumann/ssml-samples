@@ -1,0 +1,4 @@
+<Response>
+<Say voice="Polly.Joanna-Neural">Thank you for using the sign-on verification system. Your verification code is <say-as interpret-as="digits">123456</say-as>. Again, your verification code is <say-as interpret-as="digits">123456</say-as>. Goodbye!
+</Say>
+<Response>
